@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<setting>
+  <comment>
+    This can contain as many urls as needed, it will always use the last url in the list that isn't commented out.
+    A comment is when the line begins with a @ sign.
+  <url>
+#   url is http://localhost:49179/Default.aspx<!--end url-->
+#   url is http://testing/Default.aspx<!--end url-->
+    url is http://coconut.azurewebsites.net/<!--end url-->
+  </setting>
