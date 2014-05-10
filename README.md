@@ -1,4 +1,5 @@
 The Coconut Cranium Decision Engine is my entry to the "Olympiad of Misguided Geeks contest at The Daily WTF (or OMGWTF for short)":
+
 http://omg2.thedailywtf.com/
 
 ## Description
